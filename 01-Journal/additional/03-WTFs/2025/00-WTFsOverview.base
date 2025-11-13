@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("01-Journal/additional/03-WTFs/2025")
+        - type == "wtf"
+    order:
+      - file.ctime
+      - title
+      - file.name
+      - status
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.ctime: 246
+      note.title: 287
+      file.name: 355

@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("01-Journal/additional/04-Ideas")
+        - file.hasTag("idea")
+    order:
+      - file.ctime
+      - title
+      - file.name
+      - status
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.ctime: 246
+      note.title: 350
+      file.name: 251

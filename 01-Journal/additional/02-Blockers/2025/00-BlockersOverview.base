@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("01-Journal/additional/02-Blockers/2025")
+        - type == "blocker"
+    order:
+      - file.ctime
+      - title
+      - status
+      - file.name
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.ctime: 246
+      note.title: 177
+      note.status: 161
+      file.name: 251

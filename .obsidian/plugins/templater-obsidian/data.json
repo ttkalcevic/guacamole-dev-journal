@@ -1,0 +1,57 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "03-Knowledge",
+      "template": "100-Resources/01-Templates/T-knowledge.md"
+    },
+    {
+      "folder": "01-Journal/additional/01-Brags",
+      "template": "100-Resources/01-Templates/T-brag-note.md"
+    },
+    {
+      "folder": "01-Journal/additional/04-Ideas",
+      "template": "100-Resources/01-Templates/T-idea-note.md"
+    },
+    {
+      "folder": "01-Journal/additional/02-Blockers",
+      "template": "100-Resources/01-Templates/T-blocker-note.md"
+    },
+    {
+      "folder": "01-Journal/additional/03-WTFs/2025",
+      "template": "100-Resources/01-Templates/T-wtf-note.md"
+    },
+    {
+      "folder": "01-Journal",
+      "template": "100-Resources/01-Templates/T-daily-note.md"
+    },
+    {
+      "folder": "00-Inbox",
+      "template": "100-Resources/01-Templates/T-blank-note.md"
+    },
+    {
+      "folder": "04-Writing",
+      "template": "100-Resources/01-Templates/T-writing.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": 1
+}

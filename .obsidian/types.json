@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "created": "datetime",
+    "time": "datetime",
+    "book": "checkbox",
+    "classoption": "multitext",
+    "toc": "checkbox",
+    "toc-own-page": "checkbox",
+    "keywords": "multitext",
+    "author": "multitext",
+    "status": "text"
+  }
+}

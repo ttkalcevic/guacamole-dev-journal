@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("01-Journal/additional/01-Brags/2025")
+        - type == "brag"
+    order:
+      - file.ctime
+      - title
+      - file.name
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.ctime: 246
+      note.title: 350
+      file.name: 251

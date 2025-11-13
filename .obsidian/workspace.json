@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8cb979f61749af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd9abc7541eeb42",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "100-Resources/03-Attachments/groot.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "groot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cb672111fa7bc49",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cba7c31bcf2e2da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0994cf1359faf409",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c72a7dcdadd7781",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "43138345562e14e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#blocker",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "124e704ae0343f3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "534b8771c0affb46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64326f3ba96fe064",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bff34c70209b4984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062fb5fb625d8a21",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "100-Resources/03-Attachments/groot.jpeg"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for groot"
+            }
+          }
+        ]
+      },
+      {
+        "id": "376e25271d9dbb5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d57d4d2be3b2db7c",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "100-Resources/03-Attachments/groot.jpeg"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": true,
+      "obsidian-git:Open Git source control": true,
+      "mermaid-tools:Open Mermaid Toolbar": true,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "4dd9abc7541eeb42",
+  "lastOpenFiles": [
+    "100-Resources/02-Images/groot.jpeg",
+    "100-Resources/03-Attachments/groot 1.jpeg",
+    "100-Resources/03-Attachments/groot.jpeg",
+    "03-Knowledge/05-Personal/Personal knowledge demo.md",
+    "03-Knowledge/04-References/Reference note demo.md",
+    "03-Knowledge/03-Tutorials/Tutorial note demo.md",
+    "03-Knowledge/02-CodeSnippets/Code snippet demo.md",
+    "04-Writing/Writing demo note.md",
+    "03-Knowledge/01-Concepts/Concept demo note.md",
+    "03-Knowledge/03-Tutorials/fdfs.md",
+    "03-Knowledge/02-CodeSnippets/k.md",
+    "99-Archive/Archived note.md",
+    "05-Persons/Some contact.md",
+    "01-Journal/2025/11-November/2025-11-13.md",
+    "02-Projects/Personal/Demo Project.md",
+    "01-Journal/additional/01-Brags/2025/2025-11-13 - Demo brag note.md",
+    "01-Journal/additional/01-Brags/2025/00-BragsOverview.base",
+    "02-Projects/Work/Demo work project.md",
+    "00-Inbox/2025-11-13 - Demo note.md",
+    "100-Resources/01-Templates/T-wtf-note.md",
+    "100-Resources/01-Templates/T-writing.md",
+    "100-Resources/01-Templates/T-knowledge.md",
+    "100-Resources/01-Templates/T-idea-note.md",
+    "100-Resources/01-Templates/T-daily-note.md",
+    "100-Resources/01-Templates/T-brag-note.md",
+    "100-Resources/01-Templates/T-blocker-note.md",
+    "100-Resources/01-Templates/T-blank-note.md",
+    "100-Resources/03-Attachments",
+    "05-Persons",
+    "00-Inbox/Untitled.base",
+    "00-Inbox/Untitled 1.base",
+    "01-Journal/additional/02-Blockers/2025/2025-11-13 - Blocker demo note.md",
+    "01-Journal/2025/11-November/Untitled.md",
+    "01-Journal/additional/04-Ideas/00-IdeasOverview.base",
+    "01-Journal/additional/03-WTFs/2025/00-WTFsOverview.base",
+    "01-Journal/additional/02-Blockers/2025/00-BlockersOverview.base",
+    "01-Journal/2025/11-November",
+    "06-Contacts",
+    "00-Inbox/Untitled.canvas",
+    "100-Resources/android-code-structure.png",
+    "100-Resources/android-code-layers.png",
+    "old-backup/W-Writing/Books/The Art of Barely Holding It Together/resources/icons/toml.png",
+    "old-backup/W-Writing/Books/The Art of Barely Holding It Together/resources/icons/groovy.png",
+    "old-backup/W-Writing/Books/The Art of Barely Holding It Together/resources/icons/bash.png",
+    "old-backup/W-Writing/Books/The Art of Barely Holding It Together/resources/icons/YML.png",
+    "old-backup/W-Writing/Books/The Art of Barely Holding It Together/resources/icons/TS.png",
+    "old-backup/W-Writing/Books/The Art of Barely Holding It Together/resources/icons/SQL.png",
+    "Untitled.canvas"
+  ]
+}

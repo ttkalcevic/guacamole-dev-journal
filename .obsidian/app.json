@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "attachmentFolderPath": "100-Resources/03-Attachment"
+}
